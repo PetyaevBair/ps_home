@@ -9,6 +9,7 @@ function App() {
     <>
       <Title text={'Поиск'}/>
       <Para text={'Параграф'}/>
+      <Para text={'Параграф'} fontSize={20}/>
       <Button text={'Найти'}/>
     </>
   )
