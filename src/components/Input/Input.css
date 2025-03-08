@@ -1,0 +1,11 @@
+.input-style {
+    display: flex;
+    align-items: center;
+}
+
+.input-style__text {
+    background-color: #17213d;
+    border: none;
+    outline: none;
+    color: #475069;
+}
