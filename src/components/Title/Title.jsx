@@ -6,4 +6,4 @@ export default function Title({text}) {
             {text}
         </h1>
     );
-}
+};
