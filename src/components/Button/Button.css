@@ -1,0 +1,21 @@
+.button-style {
+    font-family: Poppins;
+    color: #FFFFFF;
+    background-color: #7B6EF6;
+    padding: 16px 32px;
+    border-radius: 12px;
+    border: 2px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    gap: 8px;
+    outline: none;
+    width: 119;
+    height: 56;
+    padding-top: 16px;
+    padding-right: 32px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    border-width: 2px;
+}

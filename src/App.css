@@ -1,0 +1,18 @@
+.general-info {
+  width: 1176px;
+  display: inline-block;
+  margin-bottom: 100px;
+}
+
+.general-part {
+  width: 588px;
+  /* height: 144px; */
+  top: 160px;
+  left: 120px;
+  gap: 16px;
+}
+
+.search-panel {
+  display: flex;
+  gap: 5px;
+}

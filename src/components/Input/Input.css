@@ -1,0 +1,25 @@
+.input-style {
+    display: flex;
+    align-items: center;
+    border: 1px solid #323B54;
+    width: 384;
+    height: 64;
+    border-radius: 12px;
+    padding-top: 12px;
+    padding-right: 16px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    gap: 16px;
+    border-width: 1px;
+    background: #0000001a;
+}
+
+.input-style__text {
+    /* background-color: #17213d; */
+    border: none;
+    outline: none;
+    color: #475069;
+    background: #0000001A;
+    width: 312;
+    height: 40;
+}

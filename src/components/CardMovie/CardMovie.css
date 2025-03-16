@@ -1,0 +1,59 @@
+.card-movie {
+    width: 266px;
+    height: 520px;
+    top: 472px;
+    left: 120px;
+    border-radius: 12px;
+    background: #20283ECC;
+    backdrop-filter: blur(80px);
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 16px;
+    padding-left: 8px;
+    /* gap: 16px; */
+}
+
+.card-image {
+    width: 266px;
+    height: 400px;
+    top: 8px;
+    left: 8px;
+    border-radius: 8px;
+}
+
+.card-info {
+    /* width: 157px; */
+    height: 80px;
+    /* gap: 16px; */
+    /* padding: 8px; */
+}
+
+.movie-name {
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    /* background: #EBEEF5; */
+}
+
+.fav-add {
+    display: flex;
+    width: 137;
+    height: 24;
+    gap: 8px;
+}
+
+.card-image-fav-add {
+    width: 24px;
+    height: 24px;
+}
+
+.fav-text {
+    color: #7B6EF6;
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}

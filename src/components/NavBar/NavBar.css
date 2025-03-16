@@ -1,0 +1,42 @@
+.navbar-style {
+    display: flex;
+    justify-content: space-between;
+    width: 1176px;
+    height: 80px;
+    margin-top: 16px;
+}
+
+.item-list-style {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    align-items: center;
+    width: 531px;
+    height: 48px;
+    gap: 16px;
+}
+
+.item-list-style {
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.nav-logo {
+    width: 40px;
+    height: 40px;
+}
+
+.item-container {
+    width: 179;
+    height: 48;
+    padding-top: 12px;
+    padding-right: 16px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    gap: 8px;
+    display: flex;
+    justify-content: space-between;
+}
